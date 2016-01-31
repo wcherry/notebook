@@ -1,0 +1,30 @@
+{
+  "name": "Notebook",
+  "authors": [
+    "William Cherry <wcherry69@gmail.com>"
+  ],
+  "description": "A simple app to keep track of all your notes",
+  "main": "app.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "note",
+    "notebooks",
+    "search"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9"
+  }
+}
